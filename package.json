@@ -1,6 +1,5 @@
 {
-  "name": "doctemplaterexample",
-  "private": true,
+  "name": "waybill",
   "version": "0.0.0",
   "description": "a Sails application",
   "keywords": [],
@@ -31,7 +30,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikermcneil/doctemplaterexample.git"
+    "url": "git://github.com/balderdashy/waybill.git"
   },
   "author": "mikermcneil",
   "license": "MIT"

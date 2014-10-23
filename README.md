@@ -1,3 +1,3 @@
-# doctemplaterexample
+# waybill
 
 a [Sails](http://sailsjs.org) application

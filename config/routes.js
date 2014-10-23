@@ -69,10 +69,17 @@ module.exports.routes = {
 
         // Determine the browser-friendly URL for use in the view
         // (i.e. makes the repo a clickable link)
-        var browserFriendlyURL = sails.config.waybill.remote.replace(/^git:\/\//,'https://').replace(/^git@([^:]*):(.*)/, 'https://$1/$2');
+        var browserFriendlyURL;
+        // Normalize to https:// protocol
+        browserFriendlyURL = sails.config.waybill.remote.replace(/^git:\/\//,'https://');
+        browserFriendlyURL = browserFriendlyURL.replace(/^git@([^:]*):(.*)/, 'https://$1/$2');
+        // Trim trailing `.git`
+        browserFriendlyURL = browserFriendlyURL.replace(/\.git$/, '');
+        // Trim trailing `/`
+        browserFriendlyURL = browserFriendlyURL.replace(/\/$/, '');
         // if a `remoteSubPath` exists, mix that into the friendly URL
-        if (sails.config.remoteSubPath) {
-          browserFriendlyURL = util.format('%s/tree/master/%s', browserFriendlyURL, sails.config.remoteSubPath);
+        if (sails.config.waybill.remoteSubPath) {
+          browserFriendlyURL = util.format('%s/tree/master/%s', browserFriendlyURL, sails.config.waybill.remoteSubPath);
         }
 
         res.ok({
