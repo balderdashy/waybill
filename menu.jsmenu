@@ -873,8 +873,8 @@
     "parent": "docs/waterline/waterline.html",
     "isChild": true,
     "children": [
-      "docs/waterline/models/count.html",
       "docs/waterline/models/create.html",
+      "docs/waterline/models/count.html",
       "docs/waterline/models/destroy.html",
       "docs/waterline/models/find.html",
       "docs/waterline/models/findOne.html",
@@ -1034,9 +1034,9 @@
     "isChild": true,
     "children": [
       "docs/waterline/queries/exec.html",
-      "docs/waterline/queries/limit.html",
       "docs/waterline/queries/populate.html",
       "docs/waterline/queries/populateAll.html",
+      "docs/waterline/queries/limit.html",
       "docs/waterline/queries/skip.html",
       "docs/waterline/queries/sort.html",
       "docs/waterline/queries/where.html"
@@ -1092,8 +1092,8 @@
     "children": [
       "docs/waterline/records/save.html",
       "docs/waterline/records/toJSON.html",
-      "docs/waterline/records/toObject.html",
-      "docs/waterline/records/validate.html"
+      "docs/waterline/records/validate.html",
+      "docs/waterline/records/toObject.html"
     ],
     "isParent": true
   },
@@ -1235,9 +1235,9 @@
       "docs/websockets/resourceful-pubsub/publishRemove.html",
       "docs/websockets/resourceful-pubsub/publishUpdate.html",
       "docs/websockets/resourceful-pubsub/subscribe.html",
+      "docs/websockets/resourceful-pubsub/watch.html",
       "docs/websockets/resourceful-pubsub/unsubscribe.html",
-      "docs/websockets/resourceful-pubsub/unwatch.html",
-      "docs/websockets/resourceful-pubsub/watch.html"
+      "docs/websockets/resourceful-pubsub/unwatch.html"
     ],
     "isParent": true
   },
@@ -1413,13 +1413,13 @@
     "isChild": true,
     "children": [
       "docs/websockets/sails.sockets/sails.sockets.blast.html",
-      "docs/websockets/sails.sockets/sails.sockets.emit.html",
       "docs/websockets/sails.sockets/sails.sockets.broadcast.html",
+      "docs/websockets/sails.sockets/sails.sockets.emit.html",
       "docs/websockets/sails.sockets/sails.sockets.id.html",
       "docs/websockets/sails.sockets/sails.sockets.join.html",
       "docs/websockets/sails.sockets/sails.sockets.leave.html",
-      "docs/websockets/sails.sockets/sails.sockets.rooms.html",
       "docs/websockets/sails.sockets/sails.sockets.socketRooms.html",
+      "docs/websockets/sails.sockets/sails.sockets.rooms.html",
       "docs/websockets/sails.sockets/sails.sockets.subscribeToFirehose.html",
       "docs/websockets/sails.sockets/sails.sockets.subscribers.html",
       "docs/websockets/sails.sockets/sails.sockets.unsubscribeFromFirehose.html"
@@ -1536,8 +1536,8 @@
     },
     "children": [
       "docs/blueprint-api/Add.html",
-      "docs/blueprint-api/Destroy.html",
       "docs/blueprint-api/Create.html",
+      "docs/blueprint-api/Destroy.html",
       "docs/blueprint-api/Find.html",
       "docs/blueprint-api/FindOne.html",
       "docs/blueprint-api/Populate.html",
@@ -1631,8 +1631,8 @@
       "docs/res/res.notFound.html",
       "docs/res/res.ok.html",
       "docs/res/res.redirect.html",
-      "docs/res/res.serverError.html",
       "docs/res/res.send.html",
+      "docs/res/res.serverError.html",
       "docs/res/res.set.html",
       "docs/res/res.status.html",
       "docs/res/res.type.html",
@@ -1678,10 +1678,10 @@
       "displayName": "Waterline (ORM)"
     },
     "children": [
+      "docs/waterline/models/models.html",
       "docs/waterline/populated-values/populated-values.html",
-      "docs/waterline/queries/queries.html",
       "docs/waterline/records/records.html",
-      "docs/waterline/models/models.html"
+      "docs/waterline/queries/queries.html"
     ],
     "isParent": true
   },

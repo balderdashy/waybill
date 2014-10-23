@@ -1,4 +1,14 @@
 /**
+ * Module dependencies
+ */
+
+var util = require('util');
+var path = require('path');
+var fs = require('fs');
+var DocTemplater = require('doc-templater');
+
+
+/**
  * Route Mappings
  * (sails.config.routes)
  *
@@ -22,34 +32,24 @@
 
 module.exports.routes = {
 
-  /***************************************************************************
-  *                                                                          *
-  * Make the view located at `views/homepage.ejs` (or `views/homepage.jade`, *
-  * etc. depending on your default view engine) your home page.              *
-  *                                                                          *
-  * (Alternatively, remove this and add an `index.html` file in your         *
-  * `assets` directory)                                                      *
-  *                                                                          *
-  ***************************************************************************/
 
+  /**
+   * (Re)compile HTML pages from the markdown documents located at the configured
+   * repository and subpath (see `config/waybill.js`)
+   */
   '/': function (req, res) {
-    require('doc-templater')().build([{
-      remote: 'git://github.com/balderdashy/sails-docs.git',
-      remoteSubPath: 'reference',
-      htmlDirPath: '.tmp/public/docs',
+    DocTemplater().build([_.extend(sails.config.waybill, {
       jsMenuPath: 'menu.jsmenu',
       afterConvert: function (html, cb) {
-
+        // just an example of mutating the compiled HTML before it is written to disk
         var mutatedHTML = html.replace(/a/g,'q');
-
-
         cb(null, mutatedHTML);
       }
-    }], function (err, metadata) {
+    })], function (err, metadata) {
       if (err) return res.negotiate(err);
 
-      require('fs').readFile(
-        require('path').resolve(__dirname, '../menu.jsmenu'),'utf8', function (err, contents){
+      fs.readFile(
+        path.resolve(__dirname, '../menu.jsmenu'),'utf8', function (err, contents){
         if (err) return res.negotiate(err);
 
         var jsmenu;
@@ -60,13 +60,25 @@ module.exports.routes = {
           if (e) return res.negotiate(e);
         }
 
+
         // Marshal some data
         jsmenu = _.map(jsmenu, function (page){
           page.url = 'http://localhost:1337/' + page.fullPathAndFileName.replace(/^public\//, '');
           return page;
         });
 
-        res.ok(jsmenu, 'homepage');
+        // Determine the browser-friendly URL for use in the view
+        // (i.e. makes the repo a clickable link)
+        var browserFriendlyURL = sails.config.waybill.remote.replace(/^git:\/\//,'https://').replace(/^git@([^:]*):(.*)/, 'https://$1/$2');
+        // if a `remoteSubPath` exists, mix that into the friendly URL
+        if (sails.config.remoteSubPath) {
+          browserFriendlyURL = util.format('%s/tree/master/%s', browserFriendlyURL, sails.config.remoteSubPath);
+        }
+
+        res.ok({
+          menu: jsmenu,
+          browserFriendlyURL: browserFriendlyURL
+        }, 'contents');
       });
     });
   }

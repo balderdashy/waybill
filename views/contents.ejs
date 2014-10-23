@@ -1,0 +1,21 @@
+<div class="container">
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h1 class="panel-title">Contents</h1>
+      <em>(<a href="<%=data.browserFriendlyURL%>"><%= sails.config.waybill.remote + (sails.config.waybill.remoteSubPath?'/'+sails.config.waybill.remoteSubPath:'') %></a>)</em>
+    </div>
+    <div class="panel-body">
+      <ul>
+
+        <% _.each(data.menu, function (page){ %>
+        <li>
+          <a href="<%= page.url %>">
+            <%= page.url %>
+          </a>
+        </li>
+        <% }) %>
+      </ul>
+    </div>
+  </div>
+</div>
