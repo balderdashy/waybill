@@ -1,0 +1,147 @@
+[
+  {
+    "templateTitle": "README.html",
+    "fullPathAndFileName": "public/README.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "activate-item-account.html",
+    "fullPathAndFileName": "public/account/activate-item-account.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "deactivate-item-account.html",
+    "fullPathAndFileName": "public/account/deactivate-item-account.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "fastlink-callback.html",
+    "fullPathAndFileName": "public/account/fastlink-callback.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "info.html",
+    "fullPathAndFileName": "public/account/info.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "list.html",
+    "fullPathAndFileName": "public/account/list.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "products.html",
+    "fullPathAndFileName": "public/account/products.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "contact-us.html",
+    "fullPathAndFileName": "public/contact/contact-us.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "get-application-engagement-stats.html",
+    "fullPathAndFileName": "public/get-application-engagement-stats.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "remove-item.html",
+    "fullPathAndFileName": "public/item/remove-item.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "list-inbound-emails.html",
+    "fullPathAndFileName": "public/list-inbound-emails.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "README.html",
+    "fullPathAndFileName": "public/me/README.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "activate-account.html",
+    "fullPathAndFileName": "public/me/activate-account.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "choose-new-password.html",
+    "fullPathAndFileName": "public/me/choose-new-password.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "facebook-redirect-page.html",
+    "fullPathAndFileName": "public/me/facebook-redirect-page.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "get-fastlinkrefreshurl.html",
+    "fullPathAndFileName": "public/me/get-fastlinkrefreshurl.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "get-fastlinkupdateurl.html",
+    "fullPathAndFileName": "public/me/get-fastlinkupdateurl.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "get-fastlinkurl.html",
+    "fullPathAndFileName": "public/me/get-fastlinkurl.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "get-my-profile.html",
+    "fullPathAndFileName": "public/me/get-my-profile.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "getSocialMediaSignupUserData.html",
+    "fullPathAndFileName": "public/me/getSocialMediaSignupUserData.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "login.html",
+    "fullPathAndFileName": "public/me/login.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "logout.html",
+    "fullPathAndFileName": "public/me/logout.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "new-integration.html",
+    "fullPathAndFileName": "public/me/new-integration.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "request-new-password.html",
+    "fullPathAndFileName": "public/me/request-new-password.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "signup.html",
+    "fullPathAndFileName": "public/me/signup.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "update-my-profile.html",
+    "fullPathAndFileName": "public/me/update-my-profile.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "verify-identity.html",
+    "fullPathAndFileName": "public/me/verify-identity.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "compare.html",
+    "fullPathAndFileName": "public/portfolio/compare.html",
+    "data": {}
+  },
+  {
+    "templateTitle": "info.html",
+    "fullPathAndFileName": "public/portfolio/info.html",
+    "data": {}
+  }
+]

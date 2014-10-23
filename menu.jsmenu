@@ -1,0 +1,1703 @@
+[
+  {
+    "templateTitle": "Add.html",
+    "fullPathAndFileName": "docs/blueprint-api/Add.html",
+    "data": {
+      "uniqueID": "Add262514",
+      "displayName": "add to"
+    },
+    "parent": "docs/blueprint-api/blueprint-api.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "Create.html",
+    "fullPathAndFileName": "docs/blueprint-api/Create.html",
+    "data": {
+      "uniqueID": "CreateARecord744986",
+      "displayName": "create"
+    },
+    "parent": "docs/blueprint-api/blueprint-api.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "Destroy.html",
+    "fullPathAndFileName": "docs/blueprint-api/Destroy.html",
+    "data": {
+      "uniqueID": "DestroyARecord867513",
+      "displayName": "destroy"
+    },
+    "parent": "docs/blueprint-api/blueprint-api.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "Find.html",
+    "fullPathAndFileName": "docs/blueprint-api/Find.html",
+    "data": {
+      "uniqueID": "Find290807",
+      "displayName": "find where"
+    },
+    "parent": "docs/blueprint-api/blueprint-api.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "FindOne.html",
+    "fullPathAndFileName": "docs/blueprint-api/FindOne.html",
+    "data": {
+      "uniqueID": "FindOne259267",
+      "displayName": "find one"
+    },
+    "parent": "docs/blueprint-api/blueprint-api.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "Populate.html",
+    "fullPathAndFileName": "docs/blueprint-api/Populate.html",
+    "data": {
+      "uniqueID": "Populate838372",
+      "displayName": "populate where"
+    },
+    "parent": "docs/blueprint-api/blueprint-api.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "Remove.html",
+    "fullPathAndFileName": "docs/blueprint-api/Remove.html",
+    "data": {
+      "uniqueID": "Remove2294521",
+      "displayName": "remove from"
+    },
+    "parent": "docs/blueprint-api/blueprint-api.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "Update.html",
+    "fullPathAndFileName": "docs/blueprint-api/Update.html",
+    "data": {
+      "uniqueID": "UpdateARecord421031",
+      "displayName": "update"
+    },
+    "parent": "docs/blueprint-api/blueprint-api.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sailsconsole.html",
+    "fullPathAndFileName": "docs/cli/sailsconsole.html",
+    "data": {
+      "uniqueID": "sailsconsole198558",
+      "displayName": "sails console"
+    },
+    "parent": "docs/cli/cli.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sailsdebug.html",
+    "fullPathAndFileName": "docs/cli/sailsdebug.html",
+    "data": {
+      "uniqueID": "sailsdebug521538",
+      "displayName": "sails debug"
+    },
+    "parent": "docs/cli/cli.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sailsgenerate.html",
+    "fullPathAndFileName": "docs/cli/sailsgenerate.html",
+    "data": {
+      "uniqueID": "sailsgenerate197041",
+      "displayName": "sails generate"
+    },
+    "parent": "docs/cli/cli.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sailslift.html",
+    "fullPathAndFileName": "docs/cli/sailslift.html",
+    "data": {
+      "uniqueID": "sailslift482554",
+      "displayName": "sails lift"
+    },
+    "parent": "docs/cli/cli.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sailsnew.html",
+    "fullPathAndFileName": "docs/cli/sailsnew.html",
+    "data": {
+      "uniqueID": "sailsnew912235",
+      "displayName": "sails new"
+    },
+    "parent": "docs/cli/cli.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sailsversion.html",
+    "fullPathAndFileName": "docs/cli/sailsversion.html",
+    "data": {
+      "uniqueID": "sailsversion892721",
+      "displayName": "sails version"
+    },
+    "parent": "docs/cli/cli.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.accepted.html",
+    "fullPathAndFileName": "docs/req/req.accepted.html",
+    "data": {
+      "uniqueID": "reqaccepted334477",
+      "displayName": "req.accepted"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.acceptedCharsets.html",
+    "fullPathAndFileName": "docs/req/req.acceptedCharsets.html",
+    "data": {
+      "uniqueID": "reqacceptedCharsets230309",
+      "displayName": "req.acceptedCharsets"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.acceptedLanguages.html",
+    "fullPathAndFileName": "docs/req/req.acceptedLanguages.html",
+    "data": {
+      "uniqueID": "reqacceptedLanguages311952",
+      "displayName": "req.acceptedLanguages"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.accepts.html",
+    "fullPathAndFileName": "docs/req/req.accepts.html",
+    "data": {
+      "uniqueID": "reqaccepts89101",
+      "displayName": "req.accepts()"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.acceptsCharset.html",
+    "fullPathAndFileName": "docs/req/req.acceptsCharset.html",
+    "data": {
+      "uniqueID": "reqacceptsCharset303007",
+      "displayName": "req.acceptsCharset()"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.acceptsLanguage.html",
+    "fullPathAndFileName": "docs/req/req.acceptsLanguage.html",
+    "data": {
+      "uniqueID": "reqacceptsLanguage170988",
+      "displayName": "req.acceptsLanguage()"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.allParams.html",
+    "fullPathAndFileName": "docs/req/req.allParams.html",
+    "data": {
+      "uniqueID": "reqallParams817828",
+      "displayName": "req.allParams()"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.body.html",
+    "fullPathAndFileName": "docs/req/req.body.html",
+    "data": {
+      "uniqueID": "reqbody1481",
+      "displayName": "req.body"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.cookies.html",
+    "fullPathAndFileName": "docs/req/req.cookies.html",
+    "data": {
+      "uniqueID": "reqcookies576909",
+      "displayName": "req.cookies"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.file.html",
+    "fullPathAndFileName": "docs/req/req.file.html",
+    "data": {
+      "uniqueID": "reqfile784692",
+      "displayName": "req.file()"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.fresh.html",
+    "fullPathAndFileName": "docs/req/req.fresh.html",
+    "data": {
+      "uniqueID": "reqfresh718346",
+      "displayName": "req.fresh"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.get.html",
+    "fullPathAndFileName": "docs/req/req.get.html",
+    "data": {
+      "uniqueID": "reqget839626",
+      "displayName": "req.get()"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.host.html",
+    "fullPathAndFileName": "docs/req/req.host.html",
+    "data": {
+      "uniqueID": "reqhost35719",
+      "displayName": "req.host"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.ip.html",
+    "fullPathAndFileName": "docs/req/req.ip.html",
+    "data": {
+      "uniqueID": "reqip681943",
+      "displayName": "req.ip"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.ips.html",
+    "fullPathAndFileName": "docs/req/req.ips.html",
+    "data": {
+      "uniqueID": "reqips78262",
+      "displayName": "req.ips"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.is.html",
+    "fullPathAndFileName": "docs/req/req.is.html",
+    "data": {
+      "uniqueID": "reqis371514",
+      "displayName": "req.is()"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.isSocket.html",
+    "fullPathAndFileName": "docs/req/req.isSocket.html",
+    "data": {
+      "uniqueID": "reqisSocket87074",
+      "displayName": "req.isSocket"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.method.html",
+    "fullPathAndFileName": "docs/req/req.method.html",
+    "data": {
+      "uniqueID": "reqmethod305728",
+      "displayName": "req.method"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.param.html",
+    "fullPathAndFileName": "docs/req/req.param.html",
+    "data": {
+      "uniqueID": "reqparam149618",
+      "displayName": "req.param()"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.params.html",
+    "fullPathAndFileName": "docs/req/req.params.html",
+    "data": {
+      "uniqueID": "reqparams977271",
+      "displayName": "req.params"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.path.html",
+    "fullPathAndFileName": "docs/req/req.path.html",
+    "data": {
+      "uniqueID": "reqpath216836",
+      "displayName": "req.path"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.protocol.html",
+    "fullPathAndFileName": "docs/req/req.protocol.html",
+    "data": {
+      "uniqueID": "reqprotocol732076",
+      "displayName": "req.protocol"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.query.html",
+    "fullPathAndFileName": "docs/req/req.query.html",
+    "data": {
+      "uniqueID": "reqquery553014",
+      "displayName": "req.query"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.secure.html",
+    "fullPathAndFileName": "docs/req/req.secure.html",
+    "data": {
+      "uniqueID": "reqsecure698791",
+      "displayName": "req.secure"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.signedCookies.html",
+    "fullPathAndFileName": "docs/req/req.signedCookies.html",
+    "data": {
+      "uniqueID": "reqsignedCookies113713",
+      "displayName": "req.signedCookies"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.socket.html",
+    "fullPathAndFileName": "docs/req/req.socket.html",
+    "data": {
+      "uniqueID": "reqsocket572002",
+      "displayName": "req.socket"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.subdomains.html",
+    "fullPathAndFileName": "docs/req/req.subdomains.html",
+    "data": {
+      "uniqueID": "reqsubdomains686204",
+      "displayName": "req.subdomains"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.url.html",
+    "fullPathAndFileName": "docs/req/req.url.html",
+    "data": {
+      "uniqueID": "requrl810500",
+      "displayName": "req.url"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.wantsJSON.html",
+    "fullPathAndFileName": "docs/req/req.wantsJSON.html",
+    "data": {
+      "uniqueID": "reqwantsJSON30891",
+      "displayName": "req.wantsJSON"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "req.xhr.html",
+    "fullPathAndFileName": "docs/req/req.xhr.html",
+    "data": {
+      "uniqueID": "reqxhr450203",
+      "displayName": "req.xhr"
+    },
+    "parent": "docs/req/req.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.attachment.html",
+    "fullPathAndFileName": "docs/res/res.attachment.html",
+    "data": {
+      "uniqueID": "resattachment107506",
+      "displayName": "res.attachment()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.badRequest.html",
+    "fullPathAndFileName": "docs/res/res.badRequest.html",
+    "data": {
+      "uniqueID": "resbadRequest631019",
+      "displayName": "res.badRequest()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.clearCookie.html",
+    "fullPathAndFileName": "docs/res/res.clearCookie.html",
+    "data": {
+      "uniqueID": "resclearCookie314533",
+      "displayName": "res.clearCookie()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.cookie.html",
+    "fullPathAndFileName": "docs/res/res.cookie.html",
+    "data": {
+      "uniqueID": "rescookie624994",
+      "displayName": "res.cookie()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.forbidden.html",
+    "fullPathAndFileName": "docs/res/res.forbidden.html",
+    "data": {
+      "uniqueID": "resforbidden97443",
+      "displayName": "res.forbidden()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.get.html",
+    "fullPathAndFileName": "docs/res/res.get.html",
+    "data": {
+      "uniqueID": "resget697790",
+      "displayName": "res.get()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.json.html",
+    "fullPathAndFileName": "docs/res/res.json.html",
+    "data": {
+      "uniqueID": "resjson72272",
+      "displayName": "res.json()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.jsonp.html",
+    "fullPathAndFileName": "docs/res/res.jsonp.html",
+    "data": {
+      "uniqueID": "resjsonp798206",
+      "displayName": "res.jsonp()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.location.html",
+    "fullPathAndFileName": "docs/res/res.location.html",
+    "data": {
+      "uniqueID": "reslocation779137",
+      "displayName": "res.location()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.negotiate.html",
+    "fullPathAndFileName": "docs/res/res.negotiate.html",
+    "data": {
+      "uniqueID": "resnegotiate730536",
+      "displayName": "res.negotiate()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.notFound.html",
+    "fullPathAndFileName": "docs/res/res.notFound.html",
+    "data": {
+      "uniqueID": "resnotFound130366",
+      "displayName": "res.notFound()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.ok.html",
+    "fullPathAndFileName": "docs/res/res.ok.html",
+    "data": {
+      "uniqueID": "resok847363",
+      "displayName": "res.ok()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.redirect.html",
+    "fullPathAndFileName": "docs/res/res.redirect.html",
+    "data": {
+      "uniqueID": "resredirect444617",
+      "displayName": "res.redirect()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.send.html",
+    "fullPathAndFileName": "docs/res/res.send.html",
+    "data": {
+      "uniqueID": "ressend588955",
+      "displayName": "res.send()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.serverError.html",
+    "fullPathAndFileName": "docs/res/res.serverError.html",
+    "data": {
+      "uniqueID": "resserverError551750",
+      "displayName": "res.serverError()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.set.html",
+    "fullPathAndFileName": "docs/res/res.set.html",
+    "data": {
+      "uniqueID": "resset167965",
+      "displayName": "res.set()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.status.html",
+    "fullPathAndFileName": "docs/res/res.status.html",
+    "data": {
+      "uniqueID": "resstatus819458",
+      "displayName": "res.status()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.type.html",
+    "fullPathAndFileName": "docs/res/res.type.html",
+    "data": {
+      "uniqueID": "restype43929",
+      "displayName": "res.type()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "res.view.html",
+    "fullPathAndFileName": "docs/res/res.view.html",
+    "data": {
+      "uniqueID": "resview916814",
+      "displayName": "res.view()"
+    },
+    "parent": "docs/res/res.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.blueprints.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.blueprints.html",
+    "data": {
+      "uniqueID": "Blueprints187690",
+      "displayName": "sails.config.blueprints"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.bootstrap.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.bootstrap.html",
+    "data": {
+      "uniqueID": "Bootstrap85232",
+      "displayName": "sails.config.bootstrap"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.connections.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.connections.html",
+    "data": {
+      "uniqueID": "Connections100765",
+      "displayName": "sails.config.connections"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.cors.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.cors.html",
+    "data": {
+      "uniqueID": "sailsconfigcors588825999999",
+      "displayName": "sails.config.cors"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.csrf.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.csrf.html",
+    "data": {
+      "uniqueID": "CSRF353281",
+      "displayName": "sails.config.csrf"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.globals.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.globals.html",
+    "data": {
+      "uniqueID": "sailsconfigglobals588825999999",
+      "displayName": "sails.config.globals"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.http.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.http.html",
+    "data": {
+      "uniqueID": "sailsconfighttp178274",
+      "displayName": "sails.config.http"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.i18n.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.i18n.html",
+    "data": {
+      "uniqueID": "sailsconfigi18n588825999999",
+      "displayName": "sails.config.i18n"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.local.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.local.html",
+    "data": {
+      "uniqueID": "Local760410",
+      "displayName": "sails.config.local"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.log.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.log.html",
+    "data": {
+      "uniqueID": "sailsconfiglog812909",
+      "displayName": "sails.config.log"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.models.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.models.html",
+    "data": {
+      "uniqueID": "sailsconfigmodels258825",
+      "displayName": "sails.config.models",
+      "stabilityIndex": "3"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.policies.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.policies.html",
+    "data": {
+      "uniqueID": "sailsconfigpolicies753862",
+      "displayName": "sails.config.policies"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.routes.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.routes.html",
+    "data": {
+      "uniqueID": "sailsconfigroutes141736",
+      "displayName": "sails.config.routes"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.session.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.session.html",
+    "data": {
+      "uniqueID": "sailsconfigsession786744",
+      "displayName": "sails.config.session"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.sockets.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.sockets.html",
+    "data": {
+      "uniqueID": "sailsconfigsockets959426",
+      "displayName": "sails.config.sockets"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.config.views.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.views.html",
+    "data": {
+      "uniqueID": "sailsconfigviews588825",
+      "displayName": "sails.config.views"
+    },
+    "parent": "docs/sails.config/sails.config.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "count.html",
+    "fullPathAndFileName": "docs/waterline/models/count.html",
+    "data": {
+      "uniqueID": "count42579",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".count()"
+    },
+    "parent": "docs/waterline/models/models.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "create.html",
+    "fullPathAndFileName": "docs/waterline/models/create.html",
+    "data": {
+      "uniqueID": "create312605",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".create()"
+    },
+    "parent": "docs/waterline/models/models.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "destroy.html",
+    "fullPathAndFileName": "docs/waterline/models/destroy.html",
+    "data": {
+      "uniqueID": "destroy398816",
+      "methodType": "instance",
+      "importance": "undefined",
+      "displayName": ".destroy()"
+    },
+    "parent": "docs/waterline/models/models.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "find.html",
+    "fullPathAndFileName": "docs/waterline/models/find.html",
+    "data": {
+      "uniqueID": "find816978",
+      "methodType": "mcm",
+      "importance": "10",
+      "displayName": ".find()"
+    },
+    "parent": "docs/waterline/models/models.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "findOne.html",
+    "fullPathAndFileName": "docs/waterline/models/findOne.html",
+    "data": {
+      "uniqueID": "findOne423345",
+      "methodType": "mcm",
+      "importance": "10",
+      "displayName": ".findOne()"
+    },
+    "parent": "docs/waterline/models/models.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "findOrCreate.html",
+    "fullPathAndFileName": "docs/waterline/models/findOrCreate.html",
+    "data": {
+      "uniqueID": "findOrCreate760631",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".findOrCreate()"
+    },
+    "parent": "docs/waterline/models/models.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "models.html",
+    "fullPathAndFileName": "docs/waterline/models/models.html",
+    "realPath": "docs/waterline/models/",
+    "data": {
+      "uniqueID": "Models537291",
+      "displayName": "Models"
+    },
+    "parent": "docs/waterline/waterline.html",
+    "isChild": true,
+    "children": [
+      "docs/waterline/models/count.html",
+      "docs/waterline/models/create.html",
+      "docs/waterline/models/destroy.html",
+      "docs/waterline/models/find.html",
+      "docs/waterline/models/findOne.html",
+      "docs/waterline/models/findOrCreate.html",
+      "docs/waterline/models/native.html",
+      "docs/waterline/models/query.html",
+      "docs/waterline/models/stream.html",
+      "docs/waterline/models/update.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "native.html",
+    "fullPathAndFileName": "docs/waterline/models/native.html",
+    "data": {
+      "uniqueID": "native900002",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".native()"
+    },
+    "parent": "docs/waterline/models/models.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "query.html",
+    "fullPathAndFileName": "docs/waterline/models/query.html",
+    "data": {
+      "uniqueID": "query546204",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".query()"
+    },
+    "parent": "docs/waterline/models/models.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "stream.html",
+    "fullPathAndFileName": "docs/waterline/models/stream.html",
+    "data": {
+      "uniqueID": "stream427721",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".stream()"
+    },
+    "parent": "docs/waterline/models/models.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "update.html",
+    "fullPathAndFileName": "docs/waterline/models/update.html",
+    "data": {
+      "uniqueID": "update727440",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".update()"
+    },
+    "parent": "docs/waterline/models/models.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "add.html",
+    "fullPathAndFileName": "docs/waterline/populated-values/add.html",
+    "data": {
+      "uniqueID": "add574043",
+      "methodType": "instance",
+      "importance": "undefined",
+      "displayName": ".add()"
+    },
+    "parent": "docs/waterline/populated-values/populated-values.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "populated-values.html",
+    "fullPathAndFileName": "docs/waterline/populated-values/populated-values.html",
+    "realPath": "docs/waterline/populated-values/",
+    "data": {
+      "uniqueID": "populatedvalues790682",
+      "displayName": "Populated Values"
+    },
+    "parent": "docs/waterline/waterline.html",
+    "isChild": true,
+    "children": [
+      "docs/waterline/populated-values/add.html",
+      "docs/waterline/populated-values/remove.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "remove.html",
+    "fullPathAndFileName": "docs/waterline/populated-values/remove.html",
+    "data": {
+      "uniqueID": "remove790682",
+      "methodType": "association",
+      "importance": "undefined",
+      "displayName": ".remove()"
+    },
+    "parent": "docs/waterline/populated-values/populated-values.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "exec.html",
+    "fullPathAndFileName": "docs/waterline/queries/exec.html",
+    "data": {
+      "uniqueID": "exec550068",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".exec()"
+    },
+    "parent": "docs/waterline/queries/queries.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "limit.html",
+    "fullPathAndFileName": "docs/waterline/queries/limit.html",
+    "data": {
+      "uniqueID": "limit203606",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".limit()"
+    },
+    "parent": "docs/waterline/queries/queries.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "populate.html",
+    "fullPathAndFileName": "docs/waterline/queries/populate.html",
+    "data": {
+      "uniqueID": "populate245634",
+      "methodType": "association",
+      "importance": "undefined",
+      "displayName": ".populate()"
+    },
+    "parent": "docs/waterline/queries/queries.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "populateAll.html",
+    "fullPathAndFileName": "docs/waterline/queries/populateAll.html",
+    "data": {
+      "uniqueID": "populate245634",
+      "methodType": "association",
+      "importance": "undefined",
+      "displayName": ".populateAll()"
+    },
+    "parent": "docs/waterline/queries/queries.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "queries.html",
+    "fullPathAndFileName": "docs/waterline/queries/queries.html",
+    "realPath": "docs/waterline/queries/",
+    "data": {
+      "uniqueID": "query820682",
+      "displayName": "Queries"
+    },
+    "parent": "docs/waterline/waterline.html",
+    "isChild": true,
+    "children": [
+      "docs/waterline/queries/exec.html",
+      "docs/waterline/queries/limit.html",
+      "docs/waterline/queries/populate.html",
+      "docs/waterline/queries/populateAll.html",
+      "docs/waterline/queries/skip.html",
+      "docs/waterline/queries/sort.html",
+      "docs/waterline/queries/where.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "skip.html",
+    "fullPathAndFileName": "docs/waterline/queries/skip.html",
+    "data": {
+      "uniqueID": "skip128737",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".skip()"
+    },
+    "parent": "docs/waterline/queries/queries.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sort.html",
+    "fullPathAndFileName": "docs/waterline/queries/sort.html",
+    "data": {
+      "uniqueID": "sort822396",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".sort()"
+    },
+    "parent": "docs/waterline/queries/queries.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "where.html",
+    "fullPathAndFileName": "docs/waterline/queries/where.html",
+    "data": {
+      "uniqueID": "where700717",
+      "methodType": "mcm",
+      "importance": "undefined",
+      "displayName": ".where()"
+    },
+    "parent": "docs/waterline/queries/queries.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "records.html",
+    "fullPathAndFileName": "docs/waterline/records/records.html",
+    "realPath": "docs/waterline/records/",
+    "data": {
+      "uniqueID": "record890682",
+      "displayName": "Records"
+    },
+    "parent": "docs/waterline/waterline.html",
+    "isChild": true,
+    "children": [
+      "docs/waterline/records/save.html",
+      "docs/waterline/records/toJSON.html",
+      "docs/waterline/records/toObject.html",
+      "docs/waterline/records/validate.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "save.html",
+    "fullPathAndFileName": "docs/waterline/records/save.html",
+    "data": {
+      "uniqueID": "save581656",
+      "methodType": "association",
+      "importance": "undefined",
+      "displayName": ".save()"
+    },
+    "parent": "docs/waterline/records/records.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "toJSON.html",
+    "fullPathAndFileName": "docs/waterline/records/toJSON.html",
+    "data": {
+      "uniqueID": "toJSON161307",
+      "methodType": "instance",
+      "importance": "undefined",
+      "displayName": ".toJSON()"
+    },
+    "parent": "docs/waterline/records/records.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "toObject.html",
+    "fullPathAndFileName": "docs/waterline/records/toObject.html",
+    "data": {
+      "uniqueID": "toObject330342",
+      "methodType": "instance",
+      "importance": "undefined",
+      "displayName": ".toObject()"
+    },
+    "parent": "docs/waterline/records/records.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "validate.html",
+    "fullPathAndFileName": "docs/waterline/records/validate.html",
+    "data": {
+      "uniqueID": "validate76690",
+      "methodType": "instance",
+      "importance": "undefined",
+      "displayName": ".validate()"
+    },
+    "parent": "docs/waterline/records/records.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "message.html",
+    "fullPathAndFileName": "docs/websockets/resourceful-pubsub/message.html",
+    "data": {
+      "uniqueID": "message373731",
+      "methodType": "pubsub",
+      "importance": "undefined",
+      "displayName": ".message()"
+    },
+    "parent": "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "publishAdd.html",
+    "fullPathAndFileName": "docs/websockets/resourceful-pubsub/publishAdd.html",
+    "data": {
+      "uniqueID": "publishAdd129964",
+      "methodType": "pubsub",
+      "importance": "undefined",
+      "displayName": ".publishAdd()"
+    },
+    "parent": "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "publishCreate.html",
+    "fullPathAndFileName": "docs/websockets/resourceful-pubsub/publishCreate.html",
+    "data": {
+      "uniqueID": "publishCreate671839",
+      "methodType": "pubsub",
+      "importance": "undefined",
+      "displayName": ".publishCreate()"
+    },
+    "parent": "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "publishDestroy.html",
+    "fullPathAndFileName": "docs/websockets/resourceful-pubsub/publishDestroy.html",
+    "data": {
+      "uniqueID": "publishDestroy732227",
+      "methodType": "pubsub",
+      "importance": "undefined",
+      "displayName": ".publishDestroy()"
+    },
+    "parent": "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "publishRemove.html",
+    "fullPathAndFileName": "docs/websockets/resourceful-pubsub/publishRemove.html",
+    "data": {
+      "uniqueID": "publishRemove468150",
+      "methodType": "pubsub",
+      "importance": "undefined",
+      "displayName": ".publishRemove()"
+    },
+    "parent": "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "publishUpdate.html",
+    "fullPathAndFileName": "docs/websockets/resourceful-pubsub/publishUpdate.html",
+    "data": {
+      "uniqueID": "publishUpdate712330",
+      "methodType": "pubsub",
+      "importance": "undefined",
+      "displayName": ".publishUpdate()"
+    },
+    "parent": "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "resourceful-pubsub.html",
+    "fullPathAndFileName": "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+    "realPath": "docs/websockets/resourceful-pubsub/",
+    "data": {
+      "uniqueID": "resourcefulpubsub293545",
+      "displayName": "Resourceful PubSub"
+    },
+    "parent": "docs/websockets/websockets.html",
+    "isChild": true,
+    "children": [
+      "docs/websockets/resourceful-pubsub/message.html",
+      "docs/websockets/resourceful-pubsub/publishAdd.html",
+      "docs/websockets/resourceful-pubsub/publishCreate.html",
+      "docs/websockets/resourceful-pubsub/publishDestroy.html",
+      "docs/websockets/resourceful-pubsub/publishRemove.html",
+      "docs/websockets/resourceful-pubsub/publishUpdate.html",
+      "docs/websockets/resourceful-pubsub/subscribe.html",
+      "docs/websockets/resourceful-pubsub/unsubscribe.html",
+      "docs/websockets/resourceful-pubsub/unwatch.html",
+      "docs/websockets/resourceful-pubsub/watch.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "subscribe.html",
+    "fullPathAndFileName": "docs/websockets/resourceful-pubsub/subscribe.html",
+    "data": {
+      "uniqueID": "subscribe342218",
+      "methodType": "pubsub",
+      "importance": "undefined",
+      "displayName": ".subscribe()"
+    },
+    "parent": "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "unsubscribe.html",
+    "fullPathAndFileName": "docs/websockets/resourceful-pubsub/unsubscribe.html",
+    "data": {
+      "uniqueID": "unsubscribe354769",
+      "methodType": "pubsub",
+      "importance": "undefined",
+      "displayName": ".unsubscribe()"
+    },
+    "parent": "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "unwatch.html",
+    "fullPathAndFileName": "docs/websockets/resourceful-pubsub/unwatch.html",
+    "data": {
+      "uniqueID": "unwatch872661",
+      "methodType": "pubsub",
+      "importance": "undefined",
+      "displayName": ".unwatch()"
+    },
+    "parent": "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "watch.html",
+    "fullPathAndFileName": "docs/websockets/resourceful-pubsub/watch.html",
+    "data": {
+      "uniqueID": "watch67265",
+      "methodType": "pubsub",
+      "importance": "undefined",
+      "displayName": ".watch()"
+    },
+    "parent": "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "io.socket.on.html",
+    "fullPathAndFileName": "docs/websockets/sails.io.js/io.socket.on.html",
+    "data": {
+      "uniqueID": "socketon682488",
+      "displayName": "io.socket.on()"
+    },
+    "parent": "docs/websockets/sails.io.js/sails.io.js.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.io.js.html",
+    "fullPathAndFileName": "docs/websockets/sails.io.js/sails.io.js.html",
+    "realPath": "docs/websockets/sails.io.js/",
+    "data": {
+      "uniqueID": "BrowserSDK293544",
+      "displayName": "Socket Client",
+      "stabilityIndex": "3"
+    },
+    "parent": "docs/websockets/websockets.html",
+    "isChild": true,
+    "children": [
+      "docs/websockets/sails.io.js/io.socket.on.html",
+      "docs/websockets/sails.io.js/socket.delete.html",
+      "docs/websockets/sails.io.js/socket.get.html",
+      "docs/websockets/sails.io.js/socket.post.html",
+      "docs/websockets/sails.io.js/socket.put.html",
+      "docs/websockets/sails.io.js/socket.request.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "socket.delete.html",
+    "fullPathAndFileName": "docs/websockets/sails.io.js/socket.delete.html",
+    "data": {
+      "uniqueID": "socketdelete671580",
+      "displayName": "io.socket.delete()"
+    },
+    "parent": "docs/websockets/sails.io.js/sails.io.js.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "socket.get.html",
+    "fullPathAndFileName": "docs/websockets/sails.io.js/socket.get.html",
+    "data": {
+      "uniqueID": "socketget480208",
+      "displayName": "io.socket.get()"
+    },
+    "parent": "docs/websockets/sails.io.js/sails.io.js.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "socket.post.html",
+    "fullPathAndFileName": "docs/websockets/sails.io.js/socket.post.html",
+    "data": {
+      "uniqueID": "socketpost175407",
+      "displayName": "io.socket.post()"
+    },
+    "parent": "docs/websockets/sails.io.js/sails.io.js.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "socket.put.html",
+    "fullPathAndFileName": "docs/websockets/sails.io.js/socket.put.html",
+    "data": {
+      "uniqueID": "socketput168503",
+      "displayName": "io.socket.put()"
+    },
+    "parent": "docs/websockets/sails.io.js/sails.io.js.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "socket.request.html",
+    "fullPathAndFileName": "docs/websockets/sails.io.js/socket.request.html",
+    "data": {
+      "uniqueID": "socketrequest682488",
+      "displayName": "io.socket.request()"
+    },
+    "parent": "docs/websockets/sails.io.js/sails.io.js.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.sockets.blast.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.blast.html",
+    "data": {
+      "uniqueID": "sailssocketsblast345475",
+      "displayName": "sails.sockets.blast()"
+    },
+    "parent": "docs/websockets/sails.sockets/sails.sockets.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.sockets.broadcast.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.broadcast.html",
+    "data": {
+      "uniqueID": "sailssocketsbroadcast253997",
+      "displayName": "sails.sockets.broadcast()"
+    },
+    "parent": "docs/websockets/sails.sockets/sails.sockets.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.sockets.emit.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.emit.html",
+    "data": {
+      "uniqueID": "sailssocketsemit963182",
+      "displayName": "sails.sockets.emit()"
+    },
+    "parent": "docs/websockets/sails.sockets/sails.sockets.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.sockets.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.html",
+    "realPath": "docs/websockets/sails.sockets/",
+    "data": {
+      "uniqueID": "Sockets505826",
+      "displayName": "sails.sockets",
+      "stabilityIndex": "3"
+    },
+    "parent": "docs/websockets/websockets.html",
+    "isChild": true,
+    "children": [
+      "docs/websockets/sails.sockets/sails.sockets.blast.html",
+      "docs/websockets/sails.sockets/sails.sockets.emit.html",
+      "docs/websockets/sails.sockets/sails.sockets.broadcast.html",
+      "docs/websockets/sails.sockets/sails.sockets.id.html",
+      "docs/websockets/sails.sockets/sails.sockets.join.html",
+      "docs/websockets/sails.sockets/sails.sockets.leave.html",
+      "docs/websockets/sails.sockets/sails.sockets.rooms.html",
+      "docs/websockets/sails.sockets/sails.sockets.socketRooms.html",
+      "docs/websockets/sails.sockets/sails.sockets.subscribeToFirehose.html",
+      "docs/websockets/sails.sockets/sails.sockets.subscribers.html",
+      "docs/websockets/sails.sockets/sails.sockets.unsubscribeFromFirehose.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "sails.sockets.id.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.id.html",
+    "data": {
+      "uniqueID": "sailssocketsid240053",
+      "displayName": "sails.sockets.id()"
+    },
+    "parent": "docs/websockets/sails.sockets/sails.sockets.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.sockets.join.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.join.html",
+    "data": {
+      "uniqueID": "sailssocketsjoin958690",
+      "displayName": "sails.sockets.join()"
+    },
+    "parent": "docs/websockets/sails.sockets/sails.sockets.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.sockets.leave.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.leave.html",
+    "data": {
+      "uniqueID": "sailssocketsleave425459",
+      "displayName": "sails.sockets.leave()"
+    },
+    "parent": "docs/websockets/sails.sockets/sails.sockets.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.sockets.rooms.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.rooms.html",
+    "data": {
+      "uniqueID": "sailssocketsrooms183984",
+      "displayName": "sails.sockets.rooms()"
+    },
+    "parent": "docs/websockets/sails.sockets/sails.sockets.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.sockets.socketRooms.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.socketRooms.html",
+    "data": {
+      "uniqueID": "sailssocketssocketRooms270469",
+      "displayName": "sails.sockets.socketRooms()"
+    },
+    "parent": "docs/websockets/sails.sockets/sails.sockets.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.sockets.subscribeToFirehose.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.subscribeToFirehose.html",
+    "data": {
+      "uniqueID": "sailssocketssubscribeToFirehose954078",
+      "displayName": "sails.sockets.subscribeToFirehose()"
+    },
+    "parent": "docs/websockets/sails.sockets/sails.sockets.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.sockets.subscribers.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.subscribers.html",
+    "data": {
+      "uniqueID": "sailssocketssubscribers65666",
+      "displayName": "sails.sockets.subscribers()"
+    },
+    "parent": "docs/websockets/sails.sockets/sails.sockets.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "sails.sockets.unsubscribeFromFirehose.html",
+    "fullPathAndFileName": "docs/websockets/sails.sockets/sails.sockets.unsubscribeFromFirehose.html",
+    "data": {
+      "uniqueID": "sailssocketsunsubscribeFromFirehose999488",
+      "displayName": "sails.sockets.unsubscribeFromFirehose()"
+    },
+    "parent": "docs/websockets/sails.sockets/sails.sockets.html",
+    "isChild": true
+  },
+  {
+    "templateTitle": "0home.html",
+    "fullPathAndFileName": "docs/0home/0home.html",
+    "realPath": "docs/0home/",
+    "data": {
+      "uniqueID": "home198238",
+      "displayName": "--"
+    },
+    "children": [],
+    "isParent": true
+  },
+  {
+    "templateTitle": "README.html",
+    "fullPathAndFileName": "docs/README.html",
+    "data": {
+      "uniqueID": "README541912",
+      "displayName": "error"
+    }
+  },
+  {
+    "templateTitle": "blueprint-api.html",
+    "fullPathAndFileName": "docs/blueprint-api/blueprint-api.html",
+    "realPath": "docs/blueprint-api/",
+    "data": {
+      "uniqueID": "blueprintapi170785",
+      "displayName": "Blueprint API",
+      "stabilityIndex": "2"
+    },
+    "children": [
+      "docs/blueprint-api/Add.html",
+      "docs/blueprint-api/Destroy.html",
+      "docs/blueprint-api/Create.html",
+      "docs/blueprint-api/Find.html",
+      "docs/blueprint-api/FindOne.html",
+      "docs/blueprint-api/Populate.html",
+      "docs/blueprint-api/Remove.html",
+      "docs/blueprint-api/Update.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "cli.html",
+    "fullPathAndFileName": "docs/cli/cli.html",
+    "realPath": "docs/cli/",
+    "data": {
+      "uniqueID": "cli83196",
+      "displayName": "Command Line Interface",
+      "stabilityIndex": "3"
+    },
+    "children": [
+      "docs/cli/sailsconsole.html",
+      "docs/cli/sailsdebug.html",
+      "docs/cli/sailsgenerate.html",
+      "docs/cli/sailslift.html",
+      "docs/cli/sailsnew.html",
+      "docs/cli/sailsversion.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "req.html",
+    "fullPathAndFileName": "docs/req/req.html",
+    "realPath": "docs/req/",
+    "data": {
+      "uniqueID": "req35837",
+      "displayName": "Request (`req`)",
+      "stabilityIndex": "3"
+    },
+    "children": [
+      "docs/req/req.accepted.html",
+      "docs/req/req.acceptedCharsets.html",
+      "docs/req/req.acceptedLanguages.html",
+      "docs/req/req.accepts.html",
+      "docs/req/req.acceptsCharset.html",
+      "docs/req/req.acceptsLanguage.html",
+      "docs/req/req.allParams.html",
+      "docs/req/req.body.html",
+      "docs/req/req.cookies.html",
+      "docs/req/req.file.html",
+      "docs/req/req.fresh.html",
+      "docs/req/req.get.html",
+      "docs/req/req.host.html",
+      "docs/req/req.ip.html",
+      "docs/req/req.ips.html",
+      "docs/req/req.is.html",
+      "docs/req/req.isSocket.html",
+      "docs/req/req.method.html",
+      "docs/req/req.param.html",
+      "docs/req/req.params.html",
+      "docs/req/req.path.html",
+      "docs/req/req.protocol.html",
+      "docs/req/req.query.html",
+      "docs/req/req.secure.html",
+      "docs/req/req.signedCookies.html",
+      "docs/req/req.socket.html",
+      "docs/req/req.subdomains.html",
+      "docs/req/req.url.html",
+      "docs/req/req.wantsJSON.html",
+      "docs/req/req.xhr.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "res.html",
+    "fullPathAndFileName": "docs/res/res.html",
+    "realPath": "docs/res/",
+    "data": {
+      "uniqueID": "res550242",
+      "displayName": "Response (`res`)",
+      "stabilityIndex": "3"
+    },
+    "children": [
+      "docs/res/res.attachment.html",
+      "docs/res/res.badRequest.html",
+      "docs/res/res.clearCookie.html",
+      "docs/res/res.cookie.html",
+      "docs/res/res.forbidden.html",
+      "docs/res/res.get.html",
+      "docs/res/res.json.html",
+      "docs/res/res.jsonp.html",
+      "docs/res/res.location.html",
+      "docs/res/res.negotiate.html",
+      "docs/res/res.notFound.html",
+      "docs/res/res.ok.html",
+      "docs/res/res.redirect.html",
+      "docs/res/res.serverError.html",
+      "docs/res/res.send.html",
+      "docs/res/res.set.html",
+      "docs/res/res.status.html",
+      "docs/res/res.type.html",
+      "docs/res/res.view.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "sails.config.html",
+    "fullPathAndFileName": "docs/sails.config/sails.config.html",
+    "realPath": "docs/sails.config/",
+    "data": {
+      "uniqueID": "sailsconfig238825",
+      "displayName": "Configuration",
+      "stabilityIndex": "3"
+    },
+    "children": [
+      "docs/sails.config/sails.config.blueprints.html",
+      "docs/sails.config/sails.config.bootstrap.html",
+      "docs/sails.config/sails.config.connections.html",
+      "docs/sails.config/sails.config.cors.html",
+      "docs/sails.config/sails.config.csrf.html",
+      "docs/sails.config/sails.config.globals.html",
+      "docs/sails.config/sails.config.http.html",
+      "docs/sails.config/sails.config.i18n.html",
+      "docs/sails.config/sails.config.local.html",
+      "docs/sails.config/sails.config.log.html",
+      "docs/sails.config/sails.config.models.html",
+      "docs/sails.config/sails.config.policies.html",
+      "docs/sails.config/sails.config.routes.html",
+      "docs/sails.config/sails.config.session.html",
+      "docs/sails.config/sails.config.sockets.html",
+      "docs/sails.config/sails.config.views.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "waterline.html",
+    "fullPathAndFileName": "docs/waterline/waterline.html",
+    "realPath": "docs/waterline/",
+    "data": {
+      "uniqueID": "Waterline537291",
+      "displayName": "Waterline (ORM)"
+    },
+    "children": [
+      "docs/waterline/populated-values/populated-values.html",
+      "docs/waterline/queries/queries.html",
+      "docs/waterline/records/records.html",
+      "docs/waterline/models/models.html"
+    ],
+    "isParent": true
+  },
+  {
+    "templateTitle": "websockets.html",
+    "fullPathAndFileName": "docs/websockets/websockets.html",
+    "realPath": "docs/websockets/",
+    "data": {
+      "uniqueID": "websockets293545",
+      "displayName": "WebSockets"
+    },
+    "children": [
+      "docs/websockets/resourceful-pubsub/resourceful-pubsub.html",
+      "docs/websockets/sails.io.js/sails.io.js.html",
+      "docs/websockets/sails.sockets/sails.sockets.html"
+    ],
+    "isParent": true
+  }
+]
